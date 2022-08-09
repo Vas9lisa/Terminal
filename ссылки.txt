@@ -1,0 +1,3 @@
+https://losst.ru/42-komandy-linux-kotorye-vy-dolzhny-znat тут 42 популярные команды
+https://sonikelf.ru/15-specialnyx-simvolov-komand-kotoryx-nuzhno-znat-dlya-raboty-bash-linux/ тут про спецсимволы
+https://losst.ru/napisanie-skriptov-na-bash ту про написание скриптов на bash
