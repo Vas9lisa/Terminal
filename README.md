@@ -12,4 +12,4 @@
 - создавать коммиты для отправки
 - и т.д.
 
-<iframe src="https://giphy.com/embed/ZGgWEZdBACIoBeZMtp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qa-joojgif-joojmood-ZGgWEZdBACIoBeZMtp">via GIPHY</a></p>
+![image](https://user-images.githubusercontent.com/106345650/184500515-4bf5f943-bb54-4bee-92a9-502b8028e06c.png)
